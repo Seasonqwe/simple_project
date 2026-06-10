@@ -26,25 +26,24 @@ const animes = [
         title: "ATTACK ON TITAN",
         scenes: [
             "I-Reject-That-Wish_.mp4",
-            "https://assets.mixkit.co/videos/preview/754/754-small.mp4"
+            "If I Lose it All .mp4"
         ]
     },
     {
         title: "SPIRITED AWAY",
         scenes: [
-            "https://assets.mixkit.co/videos/preview/512/512-small.mp4",
-            "https://assets.mixkit.co/videos/preview/343/343-small.mp4"
+            "Spirited Away.mp4",
+            "spiritedaway2.mp4"
         ]
     },
     {
         title: "ONE PIECE",
         scenes: [
-            "https://assets.mixkit.co/videos/preview/234/234-small.mp4",
-            "https://assets.mixkit.co/videos/preview/123/123-small.mp4"
+            "One peice.mp4",
+            "One Piece - Doflamingo's_Justice.mp4"
         ]
     }
 ];
-
 /* CONFIGURATION */
 const CONFIG = {
     previewWidth: 300,
